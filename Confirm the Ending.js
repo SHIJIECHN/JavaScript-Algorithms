@@ -1,5 +1,4 @@
 /*判断一个字符串(str)是否以指定的字符串(target)结尾*/
-
 function confirmEnding(str, target) {
     // 字符长度
     var tarLen = target.length;
