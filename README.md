@@ -1,7 +1,7 @@
 # JavaScript-Algorithms
 总结JavaScript一些算法   
-1、检查回文字符串   
-- 如果一个字符串忽略标点符号、大小写和空格，正着读和反着读一模一样，那么这个字符串就是palindrome(回文)
-2、找出多个数组中的最大数  
-- 数组中包含了4个小数组，分别找到每个小数组中的最大值，然后把它们串联起来，形成一个新数组
+1、[检查回文字符串](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Palindromes.js)   
+2、[找出多个数组中的最大数](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Largest%20Number%20in%20Arrays.js)     
+3、检查字符串结尾  
+
 
