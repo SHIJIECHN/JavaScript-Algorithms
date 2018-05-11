@@ -16,22 +16,25 @@ function palindrome(str){
     // 把字符串中大写字母变成小写，并移除非单词字符
     var cstr = str.toLowerCase().replace(/[^a-zA-Z0-9]+/g,'');
     var count = 0;
-    // 
+    // 字符串是否为空
     if(cstr===""){
         alert("Nothing found!")
         return false;
     }
-
+    // 检测字符串长度是偶数还是奇数
     if((cstr.length) % 2 === 0){
         ccount = (cstr.length) / 2;
     }else{
+        // 如果长度是奇数，且长度为1，则是回文
         if(cstr.length === 1){
             alert("Entry is a palindrome.")
             return turn;
         }else{
+        // 如果是奇数则忽略中间一个字符    
             ccount = (cstr.length-1) / 2;
         }
     }
+    // 循环检测第一个字符和最后一个字符是否一样，直到结束
     for(var x = 0; x < ccount; x++){
         if(cstr[x] != cstr.slice(-1-x)[0]){
             alert("Entry is not a palindrome.");
