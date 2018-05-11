@@ -14,5 +14,5 @@ function repeat(str, num) {
   repeat("abc", 3); // abcabcabc
   repeat("abc", 4) ;// abcabcabcabc
   repeat("*", 8) ;// ********
-  repeat("abc", -2);// 应该返回 
+  repeat("abc", -2);// ''
   
