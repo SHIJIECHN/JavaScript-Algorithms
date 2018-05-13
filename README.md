@@ -6,5 +6,6 @@
 5、[截断字符串](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Truncate%20a%20string.js)   
 6、[分割数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Chunky%20Monkey.js)    
 7、[截断数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Slasher%20Flick.js)   
-8、[比较字符串](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Mutations.js)
+8、[比较字符串](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Mutations.js)     
 9、[过滤数组假值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Falsy%20Bouncer.js)
+
