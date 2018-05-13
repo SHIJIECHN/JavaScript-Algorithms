@@ -1,6 +1,6 @@
 /*删除数组中的所有假值。
-
 在JavaScript中，假值有false、null、0、""、undefined 和 NaN */
+
 function bouncer(arr) {
     // filter()方法创建一个新数组, 其包含通过所提供函数实现的测试的所有元素。
     return arr.filter(function(val){ 
