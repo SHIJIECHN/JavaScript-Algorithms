@@ -14,7 +14,7 @@ function rot13(str) {
     if(loc<65 || loc>93){
       letter = String.fromCharCode(loc);
     }
-    // 是大写字母的的，当位置加13后大于90的则循环从65开始
+    // 是大写字母，当位置加13后大于90的则循环从65开始
     else{
       loc += 13;
       if(loc > 90){
