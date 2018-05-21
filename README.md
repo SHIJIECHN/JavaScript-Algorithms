@@ -10,5 +10,6 @@
 9、[过滤数组假值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Falsy%20Bouncer.js)    
 10、[摧毁数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Seek%20and%20Destroy.js)     
 11、[数组排序并找出元素索引](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Where%20do%20I%20belong.js)    
-12、[凯撒密码](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Caesars%20Cipher.js)
+12、[凯撒密码](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Caesars%20Cipher.js)    
+13、[求两个数字之间的和](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Sum%20All%20Numbers%20in%20a%20Range.js)
 
