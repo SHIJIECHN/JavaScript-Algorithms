@@ -15,7 +15,7 @@ function sumAll(arr) {
       return a + b;
      }, 0); 
   }
-  sumAll([1, 4]);
+  sumAll([1, 4]); // 10
 
   /*总结：
   1、采用Math.max()、Math.min()求最大值和最小值
