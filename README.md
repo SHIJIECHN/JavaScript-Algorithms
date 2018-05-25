@@ -15,5 +15,5 @@
 14、[比较两个数组的不同项](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Diff%20Two%20Arrays.js)   
 15、[数字转换成罗马数字](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Roman%20Numeral%20Converter.js)   
 16、[寻找对象](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Where%20art%20thou.js)   
-17、[寻找与替换](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Search%20and%20Replace.js)
+17、[寻找并替换](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Search%20and%20Replace.js)
   
