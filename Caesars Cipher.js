@@ -8,7 +8,7 @@ function rot13(str) {
     var loc = 0; // 初始化在ASCII码中的位置
   var word=''; // 用于存放转换后新的字符串
   // 找出字符对应的ASCII码位置
-  for(var i = 0;i<str.length;i++){  
+  for(var i = 0;i<str.length;i++){ 
     loc =str.charCodeAt(i);
     // 大写字母范围是65-90,不是大写字母的则直接转换成原字符
     if(loc<65 || loc>93){
