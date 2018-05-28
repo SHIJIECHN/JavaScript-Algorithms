@@ -19,6 +19,7 @@
 18、[字符串翻译成 pig latin](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Pig%20Latin.js)    
 19、[碱基配对](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/DNA%20Pairing.js)     
 20、[寻找缺失字母](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Missing%20letters.js)     
-21、[判断是否是布尔值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Boo%20who.js)
+21、[判断是否是布尔值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Boo%20who.js)    
+22、[数组联合去重](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Sorted%20Union.js)
 
   
