@@ -21,6 +21,7 @@
 20、[寻找缺失字母](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Missing%20letters.js)     
 21、[判断是否是布尔值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Boo%20who.js)    
 22、[数组联合去重](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Sorted%20Union.js)    
-23、[将字符串转换为spinal case](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Spinal%20Tap%20Case.js)
+23、[将字符串转换为spinal case](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Spinal%20Tap%20Case.js)    
+24、[将字符串特殊字符转换为它们对应的HTML实体](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Convert%20HTML%20Entities.js)
 
   
