@@ -1,4 +1,5 @@
-/*将字符串转换为 spinal case。Spinal case 是 all-lowercase-words-joined-by-dashes 这种形式的，也就是以连字符连接所有小写单词 */
+/*将字符串转换为 spinal case。Spinal case 是 all-lowercase-words-joined-by-dashes 这种形式的，
+也就是以连字符连接所有小写单词 */
 function spinalCase(str) {
     str = str.replace(/_/g," ") //  把下划线替换成空格
             .replace(/([A-Z])/g," $1") // 对大写的单词进行分组 并在大写前面加空格
