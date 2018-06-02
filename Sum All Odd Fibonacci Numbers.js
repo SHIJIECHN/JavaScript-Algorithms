@@ -27,6 +27,6 @@ function sumFibs(num) {
     return sum;
   }
 
-  sumFibs(75025);// 60696
+  sumFibs(75025);// 135721
   sumFibs(1000);// 1785
   
