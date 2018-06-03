@@ -28,6 +28,7 @@
 27、[求最小公倍数](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Smallest%20Common%20Multiple.js)    
 28、[寻找数组中第一个满足func的值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Finders%20Keepers.js)    
 29、[丢弃数组元素](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Drop%20it.js)     
-30、[对数组扁平化处理](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Steamroller.js)
+30、[对数组扁平化处理](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Steamroller.js)    
+31、[二进制字符串转换成英语句子](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Binary%20Agents.js)  
 
   
