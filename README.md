@@ -25,6 +25,7 @@
 24、[将字符串特殊字符转换为它们对应的HTML实体](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Convert%20HTML%20Entities.js)   
 25、[计算fibonacci数组奇数和](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Sum%20All%20Odd%20Fibonacci%20Numbers.js)   
 26、[求小于等于给定数值的质数之和](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Sum%20All%20Primes.js)    
-27、[求最小公倍数](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Smallest%20Common%20Multiple.js)
+27、[求最小公倍数](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Smallest%20Common%20Multiple.js)    
+28、[寻找数组中第一个满足func的值](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Finders%20Keepers.js)  
 
   
