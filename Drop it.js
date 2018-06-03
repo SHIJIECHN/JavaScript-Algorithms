@@ -6,7 +6,6 @@
 最后返回数组的剩余部分，如果没有剩余，就返回一个空数组。 */
 
 function drop(arr, func) {
-    // Drop them elements.
     let len = arguments[0].length;
     for(let i =1; i<=len;i++){
         console.log(func(arr[0]));
