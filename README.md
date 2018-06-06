@@ -32,6 +32,7 @@
 31、[二进制字符串转换成英语句子](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Binary%20Agents.js)     
 32、[完善every函数](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Everything%20Be%20True.js)    
 33、[闭包的使用](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Arguments%20Optional.js)     
-34、[匹配美国电话号码](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Validate%20US%20Telephone%20Numbers.js)
+34、[匹配美国电话号码](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Validate%20US%20Telephone%20Numbers.js)    
+35、[等差分数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Symmetric%20Difference.js)
 
   
