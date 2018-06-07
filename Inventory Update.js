@@ -27,12 +27,9 @@ function updateInventory(arr1, arr2) {
             curList.splice(index,0,newList[k]);
         }
     }
-    console.log(`curList:${curList}`);
-    console.log(`curName:${curName}`);
     for(let i = 0;i<curName.length;i++){
         result[i] = [curList[i],curName[i]];
     }
-    console.log(result);
     return result;
 }
 
