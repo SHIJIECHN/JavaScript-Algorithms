@@ -35,6 +35,7 @@
 34、[匹配美国电话号码](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Validate%20US%20Telephone%20Numbers.js)    
 35、[等差分数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Symmetric%20Difference.js)   
 36、[收银程序](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Exact%20Change.js)    
-37、[存货清单更新](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Inventory%20Update.js)  
+37、[存货清单更新](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Inventory%20Update.js)    
+38、[转换日期显示格式](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Friendly%20Date%20Ranges.js)  
 
   
