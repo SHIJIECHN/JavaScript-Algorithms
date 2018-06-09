@@ -93,7 +93,7 @@ function makeFriendlyDates(arr) {
     console.log(newArr);
     return newArr;
 
-    // 比较函数。如果a<b 则返回1；a>=b 则返回0
+    // 比较函数。如果a>b 则返回1；a<=b 则返回0
     function compare(a, b){
         a = Number(a);
         b = Number(b);
