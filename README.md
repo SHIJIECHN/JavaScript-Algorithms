@@ -36,6 +36,7 @@
 35、[等差分数组](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Symmetric%20Difference.js)   
 36、[收银程序](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Exact%20Change.js)    
 37、[存货清单更新](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Inventory%20Update.js)    
-38、[转换日期显示格式](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Friendly%20Date%20Ranges.js)  
+38、[转换日期显示格式](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Friendly%20Date%20Ranges.js)     
+39、[构建对象方法](https://github.com/SHIJIECHN/JavaScript-Algorithms/blob/master/Make%20a%20Person.js)
 
   
