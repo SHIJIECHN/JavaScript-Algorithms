@@ -2,6 +2,7 @@
 import { CricularLinkedList } from "./CircularLinkedList.js";
 import DoublyLinkedList from "./DoublyLinkedList.js";
 import LinkedList from "./LinkedList.js";
+import { SortedLinkedList } from "./SortedLinkedList.js";
 
 const list = new LinkedList()
 list.push(15)
@@ -42,3 +43,12 @@ console.log(`size: ${circularList.size()}`)
 console.log(`remove: ${circularList.removeAt(0)}`)
 console.log(`insert: ${circularList.insert(19, 0)}`)
 console.log(`toString: ${circularList.toString()}`)
+console.log('****************sortedList****************')
+const sortedList = new SortedLinkedList();
+sortedList.push(1)
+sortedList.push(2)
+sortedList.push(3)
+sortedList.push(4)
+sortedList.insert(0)
+console.log(`size: ${sortedList.size()}`)
+console.log(`toString: ${sortedList.toString()}`)
