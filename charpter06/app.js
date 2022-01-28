@@ -1,4 +1,5 @@
 
+import { CricularLinkedList } from "./CircularLinkedList.js";
 import DoublyLinkedList from "./DoublyLinkedList.js";
 import LinkedList from "./LinkedList.js";
 
@@ -17,10 +18,27 @@ console.log(`isEmpty: ${list.isEmpty()}`)
 console.log(`getHead: ${list.getHead().element}`)
 console.log(`indexOf: ${list.indexOf(2)}`)
 console.log(list.toString())
-
+console.log('**************doublyList******************')
 const doublyList = new DoublyLinkedList()
 doublyList.push(1)
 doublyList.push(2)
 doublyList.push(3)
-console.log(doublyList.toString())
-console.log(doublyList.getTail())
+doublyList.push(4)
+doublyList.push(5)
+doublyList.push(6)
+console.log(`toString: ${doublyList.toString()}`)
+console.log(`size: ${doublyList.size()}`)
+// console.log(`remove: ${doublyList.removeAt(0)}`)
+console.log(`insert: ${doublyList.insert(7, 6)}`)
+console.log(`getTail: ${doublyList.getTail().element}`)
+console.log(`toString: ${doublyList.toString()}`)
+console.log('****************circularList****************')
+const circularList = new CricularLinkedList()
+circularList.push(9);
+circularList.push(20)
+circularList.push(30)
+console.log(`toString: ${circularList.toString()}`)
+console.log(`size: ${circularList.size()}`)
+console.log(`remove: ${circularList.removeAt(0)}`)
+console.log(`insert: ${circularList.insert(19, 0)}`)
+console.log(`toString: ${circularList.toString()}`)
